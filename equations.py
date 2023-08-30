@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import sys
 import numpy as np
-sys.path.append(r"../repo_math")
+sys.path.append(r"lib")
 from  mathematics import second_derivative
 #%%
 def equation(x, a3, a2, a1, a0):
